@@ -51,16 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="Figma"/>
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminexi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
- 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminexi&radius=16&theme=react&area=true&order=5" width="100%" alt="activity-graph graph"/>
-</p>
 
 <div align="center">
   <a href="https://github.com/aminexi">
