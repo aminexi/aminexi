@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,50:2980b9,100:2c3e50&height=250&section=header&text=Hello%20there&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile&descAlignY=55&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,50:2980b9,100:2c3e50&height=250&section=header&text=Hello%20there%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Passionate%20Software%20Engineer%20and%20DevOps%20Enthusiast%20on%20a%20journey%20of%20innovation&descAlignY=55&descSize=20" width="100%" />
 
   
 
@@ -20,9 +20,8 @@
 </div>
 
 <br>
-
+<br>
 <h2 align="center">🛠️ Tech Stack</h2>
-
 <div align="center">
   <h3>🔄 DevOps & Cloud</h3>
   <p>
