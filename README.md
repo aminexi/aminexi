@@ -56,13 +56,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aminexi&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="141" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminexi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="145" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminexi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=true&order=2" height="145" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <a href="https://github.com/aminexi">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  
   <a href="https://www.linkedin.com/in/amineelfalki">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
