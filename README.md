@@ -15,6 +15,7 @@
   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminexi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
   
   <div align="left" style="max-width: 400px;">
+<br>
     <p>🎓 4th-year Computer Science and Network Engineering student</p>
     <p>💡 Passionate about DevOps culture and cloud technologies</p>
     <p>🚀 Building scalable solutions and automating workflows</p>
