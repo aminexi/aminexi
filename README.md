@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,50:2980b9,100:2c3e50&height=250&section=header&text=Hello%20there%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile!&descAlignY=55&descSize=25" width="100%" />
 
-  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/amineelfalki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:amine.elfalki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
@@ -71,10 +75,6 @@
 
 
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/amineelfalki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <a href="mailto:amine.elfalki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
 
 <br>
 
