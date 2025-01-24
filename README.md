@@ -69,11 +69,7 @@
 
 <br>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aminexi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
 
-<br>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/amineelfalki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
