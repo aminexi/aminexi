@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/amineelfalki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="mailto:amine.elfalki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -18,9 +18,9 @@
 
 <br>
     <p>🎓 4th-year Computer Science and Network Engineering student</p>
-    <p>💡 Passionate about DevOps culture and cloud technologies</p>
+    <p>💡 Passionate about programming and DevOps culture and technologies</p>
     <p>🚀 Building scalable solutions and automating workflows</p>
-    <p>📚 Currently exploring: Advanced DevOps practices & Oracle Apex</p>
+    <p>📚 Currently exploring: Advanced DevOps practices & Oracle database administration</p>
   </div>
 </div>
 
