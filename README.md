@@ -76,7 +76,6 @@
 
 
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminexi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 <br>
 
 <div align="center">
