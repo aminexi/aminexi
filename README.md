@@ -9,20 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
-<h2 align="center">👨‍💻 About Me</h2>
 
-<div align="center">
-  
-  
-  <div align="left" style="max-width: 400px;">
-
-<br>
-    <p>🎓 4th-year Computer Science and Network Engineering student</p>
-    <p>💡 Passionate about programming and DevOps culture and technologies</p>
-    <p>🚀 Building scalable solutions and automating workflows</p>
-    <p>📚 Currently exploring: Advanced DevOps practices & Oracle database administration</p>
-  </div>
-</div>
 
 <br>
 <h2 align="center">🛠️ Tech Stack</h2>
