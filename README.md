@@ -6,7 +6,7 @@
     <a href="mailto:amine.elfalki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+&+Cloud+Engineer;Data+Engineer;Continuous+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 <br>
