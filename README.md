@@ -12,9 +12,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aminexi2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 ---
 
@@ -66,5 +64,7 @@
 <div align="center">
 
 ### Open to collaboration and new opportunities
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aminexi2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 </div>
