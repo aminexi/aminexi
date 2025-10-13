@@ -2,7 +2,6 @@
 
 # AMINE EL FALKI
 
-### Computer Science & Network Engineering
 ### DevOps | Cloud Infrastructure | Software Development
 
 ---
