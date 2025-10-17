@@ -47,18 +47,20 @@
 
 ### Tools & Systems
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,idea,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,idea,visualstudio&theme=dark" />
+
 </div>
+
+
 
 ---
 
 ## GitHub Stats
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=aminexi&show_icons=true&theme=gruvbox_dark&hide_border=true&bg_color=0a1f2b&title_color=00cfff&icon_color=00cfff&text_color=a0d8f0" 
+    src="https://github-readme-stats.vercel.app/api?username=aminexi&show_icons=true&theme=react&hide_border=true" 
     height="180" 
     style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.5);" 
     alt="GitHub Stats"
@@ -66,7 +68,7 @@
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=gruvbox_dark&hide_border=true&bg_color=0a1f2b&title_color=00cfff&text_color=a0d8f0" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=react&hide_border=true" 
     height="180" 
     style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.5);" 
     alt="Top Languages"
@@ -74,15 +76,7 @@
 
 </div>
 
-<!-- Optional Streak Card -->
-<div align="center" style="margin-top: 20px;">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aminexi&theme=gruvbox_dark&hide_border=true&background=0a1f2b&stroke=00cfff&currStreakLabel=00cfff&fire=00ffff" 
-    height="120" 
-    style="border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.5);" 
-    alt="GitHub Streak"
-  />
-</div>
+
 
 
 
