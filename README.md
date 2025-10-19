@@ -27,6 +27,8 @@
 ### DevOps & Cloud
 <div align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,aws,gitlab,jenkins&theme=dark" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
 </div>
 
 ### Programming Languages
@@ -41,16 +43,43 @@
 
 ### Databases
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle"/>
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" />
 </div>
+
+
 
 ### Tools & Systems
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,idea,visualstudio&theme=dark" />
-
 </div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="zipkin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="notion logo"  />
+  <img width="12" />
+    <img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" height="40" alt="virt-manager logo"  />
+  <img width="12" />
+ 
+
+
+    
+</div>
 
 
 ---
