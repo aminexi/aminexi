@@ -96,12 +96,18 @@
   />
 
   <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=react&hide_border=true"
-    height="180" 
-    style="border-radius: 13px; box-shadow: 0 8px 20px rgba(0,0,0,0.5);" 
-    alt="Top Languages"
-  />
+   <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ADBAC7&icon_color=58A6FF"
+      height="190"
+      alt="Top Languages"
+      style="
+        border-radius: 15px;
+        box-shadow: 0 4px 25px rgba(56, 139, 253, 0.3);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 30px rgba(56, 139, 253, 0.5)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 25px rgba(56, 139, 253, 0.3)';"
+    />
 
 </div>
 
