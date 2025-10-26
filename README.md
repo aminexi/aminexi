@@ -97,7 +97,7 @@
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=react&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=react&hide_border=true"
     height="180" 
     style="border-radius: 13px; box-shadow: 0 8px 20px rgba(0,0,0,0.5);" 
     alt="Top Languages"
