@@ -96,18 +96,25 @@
   />
 
   <!-- Top Languages -->
-   <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ADBAC7&icon_color=58A6FF"
-      height="190"
-      alt="Top Languages"
-      style="
-        border-radius: 15px;
-        box-shadow: 0 4px 25px rgba(56, 139, 253, 0.3);
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-      "
-      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 30px rgba(56, 139, 253, 0.5)';"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 25px rgba(56, 139, 253, 0.3)';"
-    />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ADBAC7&icon_color=58A6FF&cache_seconds=1800"
+  alt="Top Languages"
+  height="190"
+  style="
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(56, 139, 253, 0.25);
+    transition: transform 0.35s ease, box-shadow 0.35s ease;
+    cursor: pointer;
+  "
+  onmouseover="
+    this.style.transform='translateY(-5px) scale(1.05)';
+    this.style.boxShadow='0 12px 40px rgba(56, 139, 253, 0.5)';
+  "
+  onmouseout="
+    this.style.transform='translateY(0) scale(1)';
+    this.style.boxShadow='0 8px 30px rgba(56, 139, 253, 0.25)';
+  "
+/>
 
 </div>
 
