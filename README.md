@@ -85,38 +85,21 @@
 ---
 
 ## GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-top: 20px;">
+
+## GitHub Stats
+
+<div align="center">
 
   <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aminexi&show_icons=true&theme=react&hide_border=true" 
-    height="180" 
-    style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.5);" 
-    alt="GitHub Stats"
-  />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminexi&show_icons=true&theme=react&hide_border=true)
 
   <!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ADBAC7&icon_color=58A6FF&cache_seconds=1800"
-  alt="Top Languages"
-  height="190"
-  style="
-    border-radius: 15px;
-    box-shadow: 0 8px 30px rgba(56, 139, 253, 0.25);
-    transition: transform 0.35s ease, box-shadow 0.35s ease;
-    cursor: pointer;
-  "
-  onmouseover="
-    this.style.transform='translateY(-5px) scale(1.05)';
-    this.style.boxShadow='0 12px 40px rgba(56, 139, 253, 0.5)';
-  "
-  onmouseout="
-    this.style.transform='translateY(0) scale(1)';
-    this.style.boxShadow='0 8px 30px rgba(56, 139, 253, 0.25)';
-  "
-/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ADBAC7&icon_color=58A6FF)
 
 </div>
+
+
 
 
 
