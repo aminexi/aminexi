@@ -85,13 +85,7 @@
 ---
 
 
-<div align="center">
 
-### Top Languages
-
-![Top Languages](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 
 ---
