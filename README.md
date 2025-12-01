@@ -85,22 +85,13 @@
 ---
 
 
-
-## GitHub Stats
-
 <div align="center">
 
+### Top Languages
 
-  <!-- Top Languages -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ADBAC7&icon_color=58A6FF)
+![Top Languages](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=aminexi&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
-
-
-
-
-
 
 
 ---
